@@ -1,2 +1,1 @@
-# nadjib
-my personal website
+# Simple Static Personal Website
